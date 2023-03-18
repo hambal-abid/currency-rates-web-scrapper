@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version= 1.0
+Icon= /home/--/web-scrapper/exchange.png
+Name=Currency Rates
+Exec=gnome-terminal --profile='hold-open' --command  'python3 /home/--/web-scrapper/currency-scrapper.py'
+Terminal=false
+Type=Application
